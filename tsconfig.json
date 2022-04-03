@@ -1,0 +1,12 @@
+/**
+https://www.jetbrains.com/help/webstorm/compiling-typescript-to-javascript.html
+The compiler also by default processes
+ - either the TypeScript file in the active editor tab
+ - or all TypeScript files from the current project.
+
+With a tsconfig.json file, you can modify this default behavior to generate source maps
+and compile only files from a custom scope.
+*/
+{
+  "files": []
+}
