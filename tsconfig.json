@@ -8,5 +8,11 @@ With a tsconfig.json file, you can modify this default behavior to generate sour
 and compile only files from a custom scope.
 */
 {
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "outDir": "build" // sets up dir for compiled output
+  },
   "files": []
 }
