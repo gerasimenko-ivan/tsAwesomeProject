@@ -3,7 +3,12 @@
     "module": "commonjs",
     "target": "es5",
     "sourceMap": true,
-    "outDir": "build" // sets up dir for compiled output
+    /** "outDir"
+    *     * sets up dir for compiled output
+    *     * dir is created automatically during compilation (no need to create)
+    *     * developer should add this dir to .gitignore file
+    */
+    "outDir": "build-he-he"
   },
 /* https://www.jetbrains.com/help/webstorm/compiling-typescript-to-javascript.html
 The compiler also by default processes
