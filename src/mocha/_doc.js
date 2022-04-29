@@ -8,6 +8,9 @@
  *
  *
  * TODO: How to:
+ *  - add FW to your project?
+ *      * https://mochajs.org/#installation
+ *      * actuall I did: $ npm install --save-dev mocha
  *  - afterEach() ??? (in func calls, ...) TODO: how to say 'вложенность' in english?
  *  - describe ???
  *  - it ???

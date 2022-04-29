@@ -2,5 +2,6 @@
 .idea/shelf/
 .idea/workspace.xml
 /build-he-he/
+/node_modules/
 # Editor-based HTTP Client requests
 /httpRequests/
