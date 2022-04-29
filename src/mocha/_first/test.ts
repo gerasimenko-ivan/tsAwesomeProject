@@ -5,6 +5,5 @@ describe('describe-text', function(){
         })
         console.log('first');
         console.log('second');
-        // assert.equal([1, 2, 3].indexOf(4), -1);
     })
 })
